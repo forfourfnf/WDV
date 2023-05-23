@@ -45,5 +45,5 @@
 	"startUnlocked": true,
 	"hideStoryMode": false,
 	"hideFreeplay": false,
-	"difficulties": "Remix, HQ, Beta"
+	"difficulties": "Easy, Normal, Hard, Remix, Hq, Beta"
 }
