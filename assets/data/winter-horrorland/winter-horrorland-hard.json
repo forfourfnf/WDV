@@ -21225,7 +21225,28 @@
 			}
 		],
 		"gfVersion": "gf",
-		"events": [],
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"2.2"
+					]
+				]
+			],
+			[
+				2280.28503562945,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.2"
+					]
+				]
+			]
+		],
 		"player3": null,
 		"song": "winter-horrorland",
 		"validScore": true,
