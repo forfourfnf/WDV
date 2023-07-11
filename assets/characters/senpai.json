@@ -1,78 +1,122 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				1,
-				0
-			],
 			"loop": false,
+			"offsets": [
+				181,
+				412
+			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Senpai Idle",
+			"name": "B whitty idle",
 			"indices": []
 		},
 		{
 			"offsets": [
-				5,
-				37
+				-136,
+				465
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
 			"indices": [],
-			"name": "SENPAI UP NOTE"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "SENPAI RIGHT NOTE"
+			"loop": false,
+			"name": "B whitty right0"
 		},
 		{
 			"offsets": [
-				40,
-				0
+				278,
+				398
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "SENPAI LEFT NOTE"
+			"loop": false,
+			"name": "B whitty left0"
 		},
 		{
 			"offsets": [
-				14,
-				0
+				19,
+				377
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
+			"loop": false,
+			"name": "B whitty down0"
+		},
+		{
+			"offsets": [
+				-100,
+				695
+			],
 			"indices": [],
-			"name": "SENPAI DOWN NOTE"
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "B whitty up0"
+		},
+		{
+			"offsets": [
+				300,
+				420
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-ALT",
+			"loop": false,
+			"name": "B whitty left Alt"
+		},
+		{
+			"offsets": [
+				-206,
+				470
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "B whitty right Alt"
+		},
+		{
+			"offsets": [
+				30,
+				330
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "B whitty down Alt"
+		},
+		{
+			"offsets": [
+				-110,
+				700
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "B whitty up Alt"
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/senpai",
 	"position": [
-		150,
-		360
+		70,
+		400
 	],
-	"healthicon": "senpai-pixel",
+	"healthicon": "senpai",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		170,
-		111
+		215,
+		0,
+		40
 	],
 	"camera_position": [
-		-240,
-		-330
+		-270,
+		-610
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1.5
 }
