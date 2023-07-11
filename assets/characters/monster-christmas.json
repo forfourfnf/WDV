@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				89,
+				177
 			],
 			"anim": "idle",
 			"fps": 24,
@@ -74,23 +74,23 @@
 			]
 		}
 	],
-	"no_antialiasing": false,
 	"image": "characters/monsterChristmas",
+	"scale": 1,
+	"sing_duration": 6.1,
+	"healthicon": "monster",
 	"position": [
 		0,
 		0
-	],
-	"healthicon": "monster",
-	"flip_x": false,
-	"healthbar_colors": [
-		240,
-		217,
-		255
 	],
 	"camera_position": [
 		150,
 		50
 	],
-	"sing_duration": 6.1,
-	"scale": 1
+	"flip_x": false,
+	"no_antialiasing": false,
+	"healthbar_colors": [
+		240,
+		217,
+		255
+	]
 }
